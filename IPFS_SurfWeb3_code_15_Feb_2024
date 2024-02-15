@@ -1,0 +1,166 @@
+
+<!DOCTYPE HTML>
+<!--
+	Ethereal by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Ethereal by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+		<div id="page-wrapper">
+
+				<!-- Wrapper -->
+					<div id="wrapper">
+
+						<!-- Panel (Banner) -->
+							<section class="panel banner right">
+								<div class="content color0 span-3-75">
+									<h1 class="major">SurfWeb3.blockchain</h1>
+									<p>This site is a place to ride waves of innovation, exploring the Web 3 universe, 
+										as it changes civilization! 
+										SurfWeb3.blockchain's mission is to be a presentation and discussion of Web 3, from within Web 3 itself. 
+										The intention here is to provide a compass for navigating decentralization, with emphasis upon
+										the rich diversity of ideas found on the frontiers of digital expression.</p>
+									<p>In the mainstream media, and in Web 2, the presentation of Web 3 all too often embraces a form of centralization, 
+										for example focusing on cryptocurrencies and NFT projects which have the greatest capital investment. 
+										This tends to narrow Web 3 to money, or to exposure on Web 2 platforms such as Twitter, which is a form of centralization. 
+										There is a need for alternative, more decentralized views of Web 3, shining
+									a spotlight on projects that provide meaningful experiences and that deserve greater public attention.  
+									This site emphasizes diversity of Web 3 projects and infrastructure,
+									aligning with the original vision and ideology of decentralized technologies.
+									</p>
+
+									<ul class="actions">
+										<li><a href="#first" class="button primary color1 circle icon solid fa-angle-right">Next</a></li>
+									</ul>
+								</div>
+								<div class="image filtered span-1-75" data-position="25% 25%">
+									<img src="images/SurfWeb3_cut_out_Jan_2023.png" alt="" />
+								</div>
+							</section>
+''
+						<!-- Panel (Spotlight) -->
+							<section class="panel spotlight medium right" id="first">
+								<div class="content span-7">
+									<h2 class="major">NFTS</h2>
+									<p>Web 3 worlds are built upon blockchains and NFTs. Artists make them rich and beautiful.</p>
+										<p><a href="https://www.youtube.com/watch?v=FcIwmmZw0yQ"><strong>Anna Dream Brush Video, </strong></a><a href="https://www.annadreambrush.com/"><strong>AnnaDreamBrush.com, </strong></a>
+											<a href="https://opensea.io/annadreambrush/created"><strong>AnnaDreamBrush OpenSea, </strong></a><a href="https://twitter.com/AnnaDreamBrush"><strong>AnnaDreamBrush Twitter.</strong></a></p>
+											<p>Click on the image in this link, for a wonderful animation:<a href="https://www.niftygateway.com/marketplace/collection/0x7eeb0cdad2d695cbd2bf8fb96a6a20ad5309a2dd/4"><strong>Ryan Koopmans - CryptoCube#99</strong></a>
+												
+
+
+
+								
+												
+													
+										</div>
+								<div class="image filtered tinted" data-position="top left">
+									<img src="images/MY FAVORITE NFTS ANNA 23JAN23 AT 0 40 copy.jpg" alt="" />
+								</div>
+							</section>
+
+						<!-- Panel -->
+							<section class="panel color1">
+								<div class="intro joined">
+									<h2 class="major">The Metaverse of Web 3</h2>
+									<p>Web 3 puts users in control, as they are also the owners, giving
+									 greater opportunities for online freedom and prosperity.
+										Without the spying, censorship and exploitation sometimes found in Web 2, 
+									 it's easier to feel at home in cyberspace. At the same time, not all sites are the same, and
+									there are also possibilities 
+									 for users to opt in, to varying degrees of centralization, curating of 
+									 content, etc., as in Web 2. Web 3 allows sites to be better customized, 
+									 to fulfill the desires of the users who own them.   </p>
+								</div>
+								<div class="inner">
+									<ul class="grid-icons three connected">
+										<li><span class="icon fa-gem"><span class="label">Lorem</span></span></li>
+										<li><span class="icon solid fa-camera-retro"><span class="label">Ipsum</span></span></li>
+										<li><span class="icon solid fa-cog"><span class="label">Dolor</span></span></li>
+										<li><span class="icon solid fa-paper-plane"><span class="label">Sit</span></span></li>
+										<li><span class="icon solid fa-chart-bar"><span class="label">Amet</span></span></li>
+										<li><span class="icon solid fa-code"><span class="label">Nullam</span></span></li>
+									</ul>
+								</div>
+							</section>
+
+						<!-- Panel (Spotlight) -->
+							<section class="panel spotlight large left">
+								<div class="content span-5">
+									<h2 class="major">Fly on Pegasus to an NFT Art Gallery, which is itself an NFT!</h2>
+									<p>SurfWeb3.blockchain has access to two of the most advanced blockchain metaverses,
+										the Sandbox (on Polygon), and TCG World (on Binance Smart Chain), and exciting
+										 projects are being developed for these online worlds. 
+										Though these two promising metaverses are currently in alpha stage,
+									the accompanying images give a taste of things to come. Imagine and create it in cyberspace! 
+									You can even fly on Pegasus to an NFT art gallery, which is itself an NFT!</p>
+								</div>
+								<div class="image filtered tinted" data-position="top right">
+									<img src="images/TCG_WORLD_WHITE_BUILDING_24JAN2023copy.jpg" alt="" />
+								</div>
+							</section>
+
+						<!-- Panel -->
+							<section class="panel">
+								<div class="intro color2">
+									<h2 class="major">THESE ARE NFTS</h2>
+									<p>The following images of NFTs are a far cry from the stereotypical 
+										profile pictures that seem to dominate the NFT space these days, at least in 
+										the mainstream media.</p>
+								</div>
+								<img src="images/gallery/FAVORITE NFTS ANNA 23JAN23 AT 0 36 copy.png" alt="" />
+
+								<div class="gallery">
+
+									<div class="group span-3">
+										<img src="images/gallery/ANNA BREAKING GLASS VR ART 23 JAN 23 AT 0 18 copy .png" alt="" />
+										<img src="images/gallery/ANNA VR ART, 23 JAN 23 AT 0 26 copy.png" alt="" />
+
+										<p>AMAZING NFTS!</p>
+										<a href="images/gallery/fulls/03.jpg" class="image filtered span-1-5" data-position="bottom"><img src="images/gallery/thumbs/03.jpg" alt="" /></a>
+									
+									</div>
+									
+									<a href="images/gallery/fulls/04.jpg" class="image filtered span-2-5" data-position="top"><img src="images/TCG WORLD FLY ON PEGASUS 24 JAN 2023copy.png" alt="" /></a>
+									<div class="group span-4-5">
+										<a href="images/gallery/fulls/05.jpg" class="image filtered span-3" data-position="top"><img src="images/TCG PEGASUS 2, 24 JAN 2023copy.png" alt="" /></a>
+										<a href="images/gallery/fulls/06.jpg" class="image filtered span-1-5" data-position="center"><img src="images/AMAZING CUBE NFT JAN 2023copy.png" alt="" /></a>
+										<a href="images/gallery/fulls/07.jpg" class="image filtered span-1-5" data-position="bottom"><img src="images/TCG_WORLD_WARRIOR_IN_FOREST_24JAN2023copy.png" alt="" /></a>
+										<a href="images/gallery/fulls/08.jpg" class="image filtered span-3" data-position="top"><img src="images/TCG WORLD FOREST WITH OLD TREE 24 JAN 2023copy.png" alt="" /></a>
+									</div>
+									<a href="images/gallery/fulls/09.jpg" class="image filtered span-2-5" data-position="right"><img src="images/TGC_WORLD_ART_GALLERY_SMALLER 24JAN2023copy.png" alt="" /></a>
+								</div>
+							</section>
+
+						<!-- Panel -->
+							<section class="panel color4-alt">
+								<div class="intro color4">
+									<h2 class="major">Contact</h2>
+									<p>Your feedback and recommendations are welcome. Please send them to : info@SurfWeb3.com</p>
+								</div>
+								
+						<!-- Copyright -->
+							<div class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</div>
+
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
